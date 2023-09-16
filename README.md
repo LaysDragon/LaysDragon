@@ -2,9 +2,9 @@
 I'm a dragon developer.  
 I coding everything in interest.  :) 
 
-[![LaysDragon's GitHub stats](https://github-readme-stats.laysdragon.com/api?username=LaysDragon&theme=transparent&show_icons=true&show=prs_merged,prs_merged_percentage)](https://github.com/LaysDragon/LaysDragon)  
-[![LaysDragon's code::stats stats](https://codestats-readme.avior.me/api/top-langs?username=LaysDragon)](https://github.com/LaysDragon/LaysDragon)  
-[![Top Langs](https://github-readme-stats.laysdragon.com/api/top-langs/?username=LaysDragon&theme=transparent&layout=compact)](https://github.com/LaysDragon/LaysDragon)  
+[![LaysDragon's GitHub stats](https://github-readme-stats.laysdragon.com/api?username=LaysDragon&theme=transparent&show_icons=true&show=prs_merged,prs_merged_percentage)](https://github.com/LaysDragon)  
+[![LaysDragon's code::stats stats](https://codestats-readme.avior.me/api/top-langs?username=LaysDragon)](https://github.com/LaysDragon)  
+[![Top Langs](https://github-readme-stats.laysdragon.com/api/top-langs/?username=LaysDragon&theme=transparent&layout=compact)](https://github.com/LaysDragon)  
 
 <!--
 **LaysDragon/LaysDragon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
