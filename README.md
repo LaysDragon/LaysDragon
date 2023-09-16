@@ -3,7 +3,8 @@ I'm a dragon developer.
 I coding everything in interest.  :) 
 
 ![LaysDragon's GitHub stats](https://github-readme-stats.laysdragon.com/api?username=LaysDragon&theme=transparent&show_icons=true&show=prs_merged,prs_merged_percentage)  
-![Top Langs](https://github-readme-stats.laysdragon.com/api/top-langs/?username=LaysDragon&theme=transparent&layout=compact)
+![LaysDragon's code::stats stats](https://codestats-readme.avior.me/api/top-langs?username=LaysDragon)  
+![Top Langs](https://github-readme-stats.laysdragon.com/api/top-langs/?username=LaysDragon&theme=transparent&layout=compact)  
 
 <!--
 **LaysDragon/LaysDragon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
